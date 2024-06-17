@@ -16,14 +16,14 @@ public static class TarefaEndpoints
 
         group.MapGet("/", async (ListaDeTarefasContext db) =>
         {
-            return await db.Tarefa.ToListAsync();
+            return await db.Tarefas.ToListAsync();
         })
         .WithName("GetAllTarefas")
         .WithOpenApi();
 
         group.MapGet("/{id}", async Task<Results<Ok<Tarefa>, NotFound>> (int id, ListaDeTarefasContext db) =>
         {
-            return await db.Tarefa.AsNoTracking()
+            return await db.Tarefas.AsNoTracking()
                 .FirstOrDefaultAsync(model => model.Id == id)
                 is Tarefa model
                     ? TypedResults.Ok(model)
@@ -34,7 +34,7 @@ public static class TarefaEndpoints
 
         group.MapPut("/{id}", async Task<Results<Ok, NotFound>> (int id, TarefaRequest tarefa, ListaDeTarefasContext db) =>
         {
-            var affected = await db.Tarefa
+            var affected = await db.Tarefas
                 .Where(model => model.Id == id)
                 .ExecuteUpdateAsync(setters => setters
                     .SetProperty(m => m.Titulo, tarefa.Titulo)
@@ -56,7 +56,7 @@ public static class TarefaEndpoints
                 Prazo = tarefaRequest.Prazo,
                 Status = tarefaRequest.status
             };
-            db.Tarefa.Add(tarefa);
+            db.Tarefas.Add(tarefa);
             await db.SaveChangesAsync();
             return TypedResults.Created($"/api/Tarefa/{tarefa.Id}",tarefa);
         })
@@ -65,7 +65,7 @@ public static class TarefaEndpoints
 
         group.MapDelete("/{id}", async Task<Results<Ok, NotFound>> (int id, ListaDeTarefasContext db) =>
         {
-            var affected = await db.Tarefa
+            var affected = await db.Tarefas
                 .Where(model => model.Id == id)
                 .ExecuteDeleteAsync();
             return affected == 1 ? TypedResults.Ok() : TypedResults.NotFound();

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDF2DAA-7A47-4145-AEC1-C29E8EC43182}|Infraestrutura\\Infraestrutura.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\infraestrutura\\migrations\\20240617192602_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF2DAA-7A47-4145-AEC1-C29E8EC43182}|Infraestrutura\\Infraestrutura.csproj|solutionrelative:infraestrutura\\migrations\\20240617192602_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\dto\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\dto\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDF2DAA-7A47-4145-AEC1-C29E8EC43182}|Infraestrutura\\Infraestrutura.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\infraestrutura\\data\\listadetarefascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDF2DAA-7A47-4145-AEC1-C29E8EC43182}|Infraestrutura\\Infraestrutura.csproj|solutionrelative:infraestrutura\\data\\listadetarefascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\wepapi\\listadetarefas\\listadetarefas\\listadetarefas\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD587DF-A601-43C8-A4E9-ACE2D717A468}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Modelos\\Pessoa.cs",
-              "RelativeDocumentMoniker": "ListaDeTarefas\\Modelos\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Modelos\\Pessoa.cs",
-              "RelativeToolTip": "ListaDeTarefas\\Modelos\\Pessoa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "DocumentIndex": 1,
+              "Title": "20240617192602_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\Infraestrutura\\Migrations\\20240617192602_Inicial.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\Migrations\\20240617192602_Inicial.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\Infraestrutura\\Migrations\\20240617192602_Inicial.cs",
+              "RelativeToolTip": "Infraestrutura\\Migrations\\20240617192602_Inicial.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:10:33.489Z",
+              "WhenOpened": "2024-06-17T19:26:03.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ListaDeTarefasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\Infraestrutura\\Data\\ListaDeTarefasContext.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\Data\\ListaDeTarefasContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\Infraestrutura\\Data\\ListaDeTarefasContext.cs",
+              "RelativeToolTip": "Infraestrutura\\Data\\ListaDeTarefasContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:32:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\appsettings.json",
               "RelativeDocumentMoniker": "ListaDeTarefas\\appsettings.json",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\appsettings.json",
               "RelativeToolTip": "ListaDeTarefas\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-27T19:09:36.529Z"
+              "WhenOpened": "2024-05-27T19:09:36.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Program.cs",
               "RelativeDocumentMoniker": "ListaDeTarefas\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Program.cs",
               "RelativeToolTip": "ListaDeTarefas\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAYwBQAAAArAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:46:23.148Z"
+              "WhenOpened": "2024-05-27T18:46:23.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TarefaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Dto\\TarefaRequest.cs",
-              "RelativeDocumentMoniker": "ListaDeTarefas\\Dto\\TarefaRequest.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Dto\\TarefaRequest.cs",
-              "RelativeToolTip": "ListaDeTarefas\\Dto\\TarefaRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:40:22.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TarefaEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\TarefaEndpoints.cs",
               "RelativeDocumentMoniker": "ListaDeTarefas\\TarefaEndpoints.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\TarefaEndpoints.cs",
               "RelativeToolTip": "ListaDeTarefas\\TarefaEndpoints.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAtAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAEMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:37:45.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Modelos\\Tarefa.cs",
-              "RelativeDocumentMoniker": "ListaDeTarefas\\Modelos\\Tarefa.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\WepApi\\ListaDeTarefas\\ListaDeTarefas\\ListaDeTarefas\\Modelos\\Tarefa.cs",
-              "RelativeToolTip": "ListaDeTarefas\\Modelos\\Tarefa.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T18:32:33.408Z",
+              "WhenOpened": "2024-05-27T18:37:45.603Z",
               "EditorCaption": ""
             }
           ]

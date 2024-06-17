@@ -14,6 +14,6 @@ namespace ListaDeTarefas.Data
         {
         }
 
-        public DbSet<ListaDeTarefas.Modelos.Tarefa> Tarefa { get; set; } = default!;
+        public DbSet<Tarefa> Tarefas { get; set; } = default!;
     }
 }

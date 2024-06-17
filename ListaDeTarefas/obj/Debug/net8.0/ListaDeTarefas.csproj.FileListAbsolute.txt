@@ -251,3 +251,10 @@ C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTa
 C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.pdb
 C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ref\ListaDeTarefas.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\Entidades.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\Infraestrutura.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\Infraestrutura.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\WepApi\ListaDeTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.sourcelink.json
